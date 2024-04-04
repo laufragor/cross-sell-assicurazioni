@@ -1,8 +1,9 @@
-# cross-sell-assicurazioni
-Previsione di opportunità di Cross Sell di assicurazioni
+# Progetto ML: opportunità di Cross Sell di assicurazioni
 
-# Descrizione del progetto
-Una compagnia di assicurazioni ha fornito un'assicurazione sanitaria ai suoi clienti. Costruire un modello predittivo in grado di prevedere se gli assicurati dell'anno passato potrebbero essere interessati ad acquistare anche un'assicurazione per il proprio veicolo.
+## Descrizione
+Una compagnia di assicurazioni ha fornito un'assicurazione sanitaria ai suoi clienti. Costruire un modello predittivo in grado di prevedere se gli assicurati dell'anno passato potrebbero essere interessati ad acquistare anche un'assicurazione per il proprio veicolo.  
+
+Il progetto prevede i seguenti passi:
 
 * Preprocessing dati
 * Modello naive
