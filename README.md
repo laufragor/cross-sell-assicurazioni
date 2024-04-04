@@ -1,8 +1,9 @@
-# Previsione di opportunità di Cross Sell di assicurazioni
-
-Il cliente è una compagnia di assicurazioni che ha fornito un'assicurazione sanitaria ai suoi clienti, adesso hanno bisogno del tuo aiuto per costruire un modello predittivo in grado di prevedere se gli assicurati dell'anno passato potrebbero essere interessati ad acquistare anche un'assicurazione per il proprio veicolo.
+# cross-sell-assicurazioni
+Previsione di opportunità di Cross Sell di assicurazioni
 
 # Descrizione del progetto
+Una compagnia di assicurazioni ha fornito un'assicurazione sanitaria ai suoi clienti. Costruire un modello predittivo in grado di prevedere se gli assicurati dell'anno passato potrebbero essere interessati ad acquistare anche un'assicurazione per il proprio veicolo.
+
 * Preprocessing dati
 * Modello naive
 * Modelli con correzioni per le classi sbilanciate
