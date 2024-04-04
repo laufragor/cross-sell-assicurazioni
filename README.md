@@ -7,7 +7,7 @@ Il progetto prevede i seguenti passi:
 
 * Preprocessing dati
 * Modello naive
-* Modelli con correzioni per le classi sbilanciate
+* Modelli con correzioni per le classi sbilanciate (con `imblearn`)
   *   undersampling
   *    oversampling
   *    undersampling e oversampling
